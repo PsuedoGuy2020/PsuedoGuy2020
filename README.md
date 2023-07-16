@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rishank Sharma</h1>
-<img align="center" src="https://github.com/PsuedoGuy2020/ProfileImagesLogo/blob/main/34567.gif" alt="logo" width="2000" />
+<img align="center" src="https://github.com/PsuedoGuy2020/ProfileImagesLogo/blob/main/34567.gif" alt="logo" height="200" width="2000" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psuedoguy2020&label=Profile%20views&color=0e75b6&style=flat" alt="psuedoguy2020" /> </p>
